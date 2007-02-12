@@ -1,5 +1,5 @@
 Summary:	Serbian dictionary for aspell
-Summary(pl):	S≥ownik serbski dla aspella
+Summary(pl.UTF-8):   S≈Çownik serbski dla aspella
 Name:		aspell-sr
 Version:	0.02
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Serbian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik serbski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik serbski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-sr-%{version}
