@@ -1,5 +1,5 @@
 Summary:	Serbian dictionary for aspell
-Summary(pl.UTF-8):   Słownik serbski dla aspella
+Summary(pl.UTF-8):	Słownik serbski dla aspella
 Name:		aspell-sr
 Version:	0.02
 Release:	1
