@@ -5,7 +5,7 @@ Version:	0.02
 Release:	1
 License:	LGPL v2
 Group:		Applications/Text
-Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/sr/aspell6-sr-%{version}.tar.bz2
+Source0:	http://ftp.gnu.org/gnu/aspell/dict/sr/aspell6-sr-%{version}.tar.bz2
 # Source0-md5:	a068ba095e7246fd3bbc92e7d0287998
 URL:		http://aspell.sourceforge.net/
 BuildRequires:	aspell >= 3:0.60.0
