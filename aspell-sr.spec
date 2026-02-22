@@ -2,7 +2,7 @@ Summary:	Serbian dictionary for aspell
 Summary(pl.UTF-8):	Słownik serbski dla aspella
 Name:		aspell-sr
 Version:	0.02
-Release:	2
+Release:	3
 License:	LGPL v2
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/sr/aspell6-sr-%{version}.tar.bz2
